@@ -4,7 +4,7 @@
 
 ### **⚠️ *About Me***
 
-* 🌱 My name is Tien Dat, a Front-end Dev from ***Hanoi, Vietnam***.
+* 🌱 My name is Tien Dat, a Web Developer from ***Hanoi, Vietnam***.
 * ✍️ I am currently learning <code>React ⚛️</code> for Front-End Development.
 * 👨‍💻 Kinda self-motivated learner.
 * 💻 Eager for new web technologies, frameworks, libraries.
@@ -21,13 +21,29 @@
   <img src="./img/tech/tailwind.svg" height="25px" alt="Tailwind" title="Tailwind"/>
   <img src="./img/tech/reactjs.svg" height="32px" alt="React JS" title="React JS"/>
   <img src="./img/tech/redux.svg" height="32px" alt="Redux" title="Redux"/>
+  <br>
+  <img src="./img/tech/nodejs.svg" height="32px" alt="NodeJs" title="NodeJs"/>
+  <img src="./img/tech/python.svg" height="32px" alt="Python" title="Python"/>
+  <img src="./img/tech/php.svg" height="36px" alt="PHP" title="PHP"/>
+  <img src="./img/tech/ruby.svg" height="36px" alt="Ruby" title="Ruby"/>
+  <img src="./img/tech/mysql.svg" height="36px" alt="MySQL" title="MySQL"/>
+  <img src="./img/tech/postgresql.svg" height="36px" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="./img/tech/mongodb.svg" height="36px" alt="MongoDB" title="MongoDB"/>
   <img src="./img/tech/firebase.svg" height="32px" alt="Firebase" title="Firebase"/>
+  <br>
   <img src="./img/tech/git.svg" height="32px" alt="Git" title="Git"/>
   <img src="./img/tech/github.svg#gh-light-mode-only" height="32px" alt="Github" title="Github"/>
   <img src="./img/tech/github_white.svg#gh-dark-mode-only" height="32px" alt="Github" title="Github"/>
   <img src="./img/tech/vscode.svg" height="32px" alt="Visual Studio Code" title="Visual Studio Code"/>
+  <img src="./img/tech/vim.svg" height="32px" alt="Vim" title="Vim"/>
+  <img src="./img/tech/win-term.svg" height="28px" alt="Terminal" title="Terminal"/>
   <img src="./img/tech/figma.svg" height="32px" alt="Figma" title="Figma"/>
   <img src="./img/tech/photoshop.svg" height="32px" alt="Photoshop" title="Photoshop"/>
+  <img src="./img/tech/xd.svg" height="32px" alt="Adobe Xd" title="Adobe Xd"/>
+  <img src="./img/tech/windows.svg" height="32px" alt="Windows" title="Windows"/>
+  <img src="./img/tech/linux.svg" height="32px" alt="Linux" title="Linux"/>
+  <img src="./img/tech/ubuntu.svg" height="32px" alt="Ubuntu" title="Ubuntu"/>
+  <img src="./img/tech/arch-linux.svg" height="32px" alt="Arch Linux" title="Arch Linux"/>
 </p>
 
 ### ***🔥Profile stats***
