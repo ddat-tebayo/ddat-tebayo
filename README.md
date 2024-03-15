@@ -5,13 +5,12 @@
 ### **⚠️ *About Me***
 
 * 🌱 My name is Tien Dat, a Web Developer from ***Hanoi, Vietnam*** 🇻🇳.
-* ✍️ I'm currently learning <code>Linux command line ⌨️</code> to live in Terminal. ⤵️
-<br>
-<b><h3 align="center">" 🐧I use [Arch](https://archlinux.org/) btw <img src="./img/tech/arch-linux.svg" height="16px" alt="Arch Linux" title="Arch Linux"/> "</h3>
-</b>
 * 👨‍💻 Kinda self-motivated learner.
 * 💻 Eager for new web technologies, frameworks, libraries.
 * 😄 Hobbies : manga, anime, music...
+* ✍️ Currently learning <code>Linux command line ⌨️</code> to live in Terminal. ⤵️
+<b><h3 align="center">" 🐧I use Arch btw <img src="./img/tech/arch-linux.svg" height="16px" alt="Arch Linux" title="Arch Linux"/> "</h3>
+</b>
 
 ### ***🛠 Technologies & Tools***
 <p align="center">
