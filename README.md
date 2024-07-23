@@ -1,6 +1,6 @@
-<a href="#" target="_blank">
-  <img src="./img/tiendat.svg" width="1200" />
-</a>
+<div align=center>
+  <img src="./img/tiendat.svg"/>
+</div>
 
 ### **⚠️ *About Me***
 
@@ -50,15 +50,13 @@
 </p>
 
 ### ***🔥Profile stats***
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align=center>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ddat-tebayo&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 <br>
 <div align=center>
-  <a href="#" title="Tien Dat Tran's Most Used Languages">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddat-tebayo&theme=tokyonight&count_private=true&layout=compact&langs_count=6&border_color=61dafb">
-  </a>
-  <a href="#" title="Tien Dat Tran's Github Stats">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ddat-tebayo&theme=tokyonight&show_icons=true&count_private=true&border_color=61dafb">
-  </a>
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddat-tebayo&theme=tokyonight&count_private=true&layout=compact&langs_count=10&border_color=61dafb" alt="Most Used Languages">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=ddat-tebayo&theme=tokyonight&border_color=61dafb&show_icons=true&hide_rank=true" alt="Github Stats">
   <br>
 </div>
 
@@ -71,6 +69,9 @@
 <br>
 
 ![divider](./img/divider.gif)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ddat-tebayo&label=Profile+views&color=blue&style=flat" alt="Profile views" />
+</p>
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
